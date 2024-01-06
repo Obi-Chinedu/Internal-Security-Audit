@@ -34,6 +34,12 @@ Implemented the NIST Cybersecurity Framework (CSF) as the basis for audit strate
 
 - Implemented network segmentation to restrict unauthorized access and contain potential breaches.
 - Strengthened access controls by revising user privileges based on least privilege principles.
+ ![image](https://github.com/Obi-Chinedu/Internal-Security-Audit/assets/155754242/c6b7c496-788d-471a-878e-431607414dc5)
+![image](https://github.com/Obi-Chinedu/Internal-Security-Audit/assets/155754242/e2b2d7a2-cc7e-4f69-82e8-eec73871cbb8)
+![image](https://github.com/Obi-Chinedu/Internal-Security-Audit/assets/155754242/4aebe5da-da99-498d-a490-62adc13ab74f)
+
+
+
   
 #### Continuous Monitoring and Threat Intelligence Integration:
 
