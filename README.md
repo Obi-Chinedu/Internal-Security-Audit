@@ -1,8 +1,10 @@
 ## Project: Internal IT Audit for Botium Toys
 
-Client: Botium Toys
-### Objective: Conduct an internal IT audit to enhance cybersecurity, ensure business continuity, and achieve compliance.
-### Approach: Implemented the NIST Cybersecurity Framework (CSF) as the basis for audit strategies.
+# Client: Botium Toys
+### Objective: 
+Conduct an internal IT audit to enhance cybersecurity, ensure business continuity, and achieve compliance.
+### Approach: 
+Implemented the NIST Cybersecurity Framework (CSF) as the basis for audit strategies.
 
 
 ### Responsibilities and Achievements:
