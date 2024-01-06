@@ -11,23 +11,29 @@ Client: Botium Toys
 
 - Identified and defined the scope of the audit, encompassing all IT-managed assets.
 - Collaborated with stakeholders to outline objectives and areas of focus for the audit.
-- Risk Assessment and Mitigation:
+  
+  
+#### Risk Assessment and Mitigation:
 
 - Conducted a comprehensive risk assessment leveraging NIST CSF guidelines.
 - Identified critical vulnerabilities and potential threats to IT infrastructure and assets.
-- Security Measures Implemented:
+
+#### Security Measures Implemented:
 
 - Deployed multi-factor authentication (MFA) across critical systems to enhance access security.
 - Implemented regular patch management protocols to address system vulnerabilities promptly.
-- Incident Response Planning:
+
+#### Incident Response Planning:
 
 - Developed and documented an incident response plan outlining steps for handling cybersecurity incidents effectively.
 - Conducted training sessions to educate staff on incident response procedures.
-- Network Segmentation and Access Controls:
+  
+#### Network Segmentation and Access Controls:
 
 - Implemented network segmentation to restrict unauthorized access and contain potential breaches.
 - Strengthened access controls by revising user privileges based on least privilege principles.
-- Continuous Monitoring and Threat Intelligence Integration:
+  
+#### Continuous Monitoring and Threat Intelligence Integration:
 
 - Established continuous monitoring mechanisms to detect and respond to emerging threats proactively.
 - Integrated threat intelligence feeds to bolster the company's defense against evolving cyber threats.
